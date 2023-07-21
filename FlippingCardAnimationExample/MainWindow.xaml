@@ -24,7 +24,7 @@
         <Grid Grid.Row="1">
             <Grid.Resources>
                 <Style TargetType="{x:Type Border}">
-                    <Setter Property="Width" Value="50" />
+                    <Setter Property="Width" Value="80" />
                     <Setter Property="Height" Value="100" />
                     <Setter Property="BorderThickness" Value="1" />
                     <Setter Property="CornerRadius" Value="3" />
